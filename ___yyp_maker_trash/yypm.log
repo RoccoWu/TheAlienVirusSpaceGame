@@ -1,0 +1,1489 @@
+You are using YYP Maker v1.1.2, released in 11-04-2021
+
+
+
+[16-05-2021 18:06:06] Initialized GameMaker Project: SpaceGame.yyp
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/animcurves
+[16-05-2021 18:06:06] Checking GravityWellCurve
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/animcurves/GravityWellCurve
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/animcurves/GravityWellCurve
+[16-05-2021 18:06:06] Checking GravityWellCurve.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/animcurves/GravityWellCurve/GravityWellCurve.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/animcurves/GravityWellCurve/GravityWellCurve.yy
+[16-05-2021 18:06:06] Par: "folders/Scripts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/animcurves/GravityWellCurve/GravityWellCurve.yy"
+[16-05-2021 18:06:06] Found AnimCurve: GravityWellCurve
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/datafiles
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/extensions
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts
+[16-05-2021 18:06:06] Checking font_Warning
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Warning
+[16-05-2021 18:06:06] Checking font_Default
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Default
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Default
+[16-05-2021 18:06:06] Checking font_Default.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Default/font_Default.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Default/font_Default.yy
+[16-05-2021 18:06:06] Par: "folders/Fonts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Default/font_Default.yy"
+[16-05-2021 18:06:06] Found Font: font_Default
+[16-05-2021 18:06:06] Checking font_Default.png
+[16-05-2021 18:06:06] Checking font_Default.old.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Warning
+[16-05-2021 18:06:06] Checking font_Warning.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Warning/font_Warning.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Warning/font_Warning.yy
+[16-05-2021 18:06:06] Par: "folders/Fonts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/fonts/font_Warning/font_Warning.yy"
+[16-05-2021 18:06:06] Found Font: font_Warning
+[16-05-2021 18:06:06] Checking font_Warning.png
+[16-05-2021 18:06:06] Checking font_Warning.old.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/notes
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects
+[16-05-2021 18:06:06] Checking RigidbodyStatic
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyStatic
+[16-05-2021 18:06:06] Checking RigidbodyDynamic
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyDynamic
+[16-05-2021 18:06:06] Checking PlayerProjectile
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerProjectile
+[16-05-2021 18:06:06] Checking PlayerCrosshair
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerCrosshair
+[16-05-2021 18:06:06] Checking Player
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Player
+[16-05-2021 18:06:06] Checking planetC
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetC
+[16-05-2021 18:06:06] Checking planetB
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetB
+[16-05-2021 18:06:06] Checking planetA
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetA
+[16-05-2021 18:06:06] Checking PhysicsManager
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PhysicsManager
+[16-05-2021 18:06:06] Checking obj_Screenshake
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/obj_Screenshake
+[16-05-2021 18:06:06] Checking GravityWell
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GravityWell
+[16-05-2021 18:06:06] Checking GameManager
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GameManager
+[16-05-2021 18:06:06] Checking DialogueManager
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueManager
+[16-05-2021 18:06:06] Checking DialogueBox
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueBox
+[16-05-2021 18:06:06] Checking Camera
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Camera
+[16-05-2021 18:06:06] Checking Boundary
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boundary
+[16-05-2021 18:06:06] Checking BossProjectile
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/BossProjectile
+[16-05-2021 18:06:06] Checking Boss
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boss
+[16-05-2021 18:06:06] Checking asteroidTEST
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/asteroidTEST
+[16-05-2021 18:06:06] Checking AsteroidField
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/AsteroidField
+[16-05-2021 18:06:06] Checking Asteroid3
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid3
+[16-05-2021 18:06:06] Checking Asteroid2
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid2
+[16-05-2021 18:06:06] Checking Asteroid1
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid1
+[16-05-2021 18:06:06] Checking Asteroid0
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid0
+[16-05-2021 18:06:06] Checking Asteroid
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking Other_7.gml
+[16-05-2021 18:06:06] Checking Other_25.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Collision_RigidbodyDynamic.gml
+[16-05-2021 18:06:06] Checking Asteroid.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid/Asteroid.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid/Asteroid.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid/Asteroid.yy"
+[16-05-2021 18:06:06] Found Object: Asteroid
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid0
+[16-05-2021 18:06:06] Checking Asteroid0.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid0/Asteroid0.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid0/Asteroid0.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid0/Asteroid0.yy"
+[16-05-2021 18:06:06] Found Object: Asteroid0
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid1
+[16-05-2021 18:06:06] Checking Asteroid1.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid1/Asteroid1.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid1/Asteroid1.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid1/Asteroid1.yy"
+[16-05-2021 18:06:06] Found Object: Asteroid1
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid2
+[16-05-2021 18:06:06] Checking Asteroid2.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid2/Asteroid2.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid2/Asteroid2.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid2/Asteroid2.yy"
+[16-05-2021 18:06:06] Found Object: Asteroid2
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid3
+[16-05-2021 18:06:06] Checking Asteroid3.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid3/Asteroid3.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid3/Asteroid3.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Asteroid3/Asteroid3.yy"
+[16-05-2021 18:06:06] Found Object: Asteroid3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/AsteroidField
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking Draw_0.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking AsteroidField.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/AsteroidField/AsteroidField.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/AsteroidField/AsteroidField.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/AsteroidField/AsteroidField.yy"
+[16-05-2021 18:06:06] Found Object: AsteroidField
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/asteroidTEST
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking KeyPress_16.gml
+[16-05-2021 18:06:06] Checking asteroidTEST.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/asteroidTEST/asteroidTEST.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/asteroidTEST/asteroidTEST.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/asteroidTEST/asteroidTEST.yy"
+[16-05-2021 18:06:06] Found Object: asteroidTEST
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boss
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking Draw_0.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Collision_Player.gml
+[16-05-2021 18:06:06] Checking Boss.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boss/Boss.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boss/Boss.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boss/Boss.yy"
+[16-05-2021 18:06:06] Found Object: Boss
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/BossProjectile
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Collision_PlayerProjectile.gml
+[16-05-2021 18:06:06] Checking Collision_Player.gml
+[16-05-2021 18:06:06] Checking BossProjectile.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/BossProjectile/BossProjectile.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/BossProjectile/BossProjectile.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/BossProjectile/BossProjectile.yy"
+[16-05-2021 18:06:06] Found Object: BossProjectile
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boundary
+[16-05-2021 18:06:06] Checking Boundary.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boundary/Boundary.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boundary/Boundary.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Boundary/Boundary.yy"
+[16-05-2021 18:06:06] Found Object: Boundary
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Camera
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Camera.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Camera/Camera.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Camera/Camera.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Camera/Camera.yy"
+[16-05-2021 18:06:06] Found Object: Camera
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueBox
+[16-05-2021 18:06:06] Checking KeyPress_87.gml
+[16-05-2021 18:06:06] Checking KeyPress_83.gml
+[16-05-2021 18:06:06] Checking Draw_0.gml
+[16-05-2021 18:06:06] Checking DialogueBox.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueBox/DialogueBox.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueBox/DialogueBox.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueBox/DialogueBox.yy"
+[16-05-2021 18:06:06] Found Object: DialogueBox
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Alarm_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueManager
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking DialogueManager.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueManager/DialogueManager.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueManager/DialogueManager.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/DialogueManager/DialogueManager.yy"
+[16-05-2021 18:06:06] Found Object: DialogueManager
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GameManager
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking GameManager.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GameManager/GameManager.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GameManager/GameManager.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GameManager/GameManager.yy"
+[16-05-2021 18:06:06] Found Object: GameManager
+[16-05-2021 18:06:06] Checking Draw_64.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GravityWell
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking GravityWell.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GravityWell/GravityWell.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GravityWell/GravityWell.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/GravityWell/GravityWell.yy"
+[16-05-2021 18:06:06] Found Object: GravityWell
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/obj_Screenshake
+[16-05-2021 18:06:06] Checking Step_2.gml
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking obj_Screenshake.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/obj_Screenshake/obj_Screenshake.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/obj_Screenshake/obj_Screenshake.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/obj_Screenshake/obj_Screenshake.yy"
+[16-05-2021 18:06:06] Found Object: obj_Screenshake
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PhysicsManager
+[16-05-2021 18:06:06] Checking Step_2.gml
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking PhysicsManager.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PhysicsManager/PhysicsManager.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PhysicsManager/PhysicsManager.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PhysicsManager/PhysicsManager.yy"
+[16-05-2021 18:06:06] Found Object: PhysicsManager
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetA
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking planetA.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetA/planetA.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetA/planetA.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetA/planetA.yy"
+[16-05-2021 18:06:06] Found Object: planetA
+[16-05-2021 18:06:06] Checking Collision_Player.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetB
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking planetB.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetB/planetB.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetB/planetB.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetB/planetB.yy"
+[16-05-2021 18:06:06] Found Object: planetB
+[16-05-2021 18:06:06] Checking Collision_Player.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetC
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking planetC.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetC/planetC.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetC/planetC.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/planetC/planetC.yy"
+[16-05-2021 18:06:06] Found Object: planetC
+[16-05-2021 18:06:06] Checking Collision_Player.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Player
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking Player.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Player/Player.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Player/Player.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/Player/Player.yy"
+[16-05-2021 18:06:06] Found Object: Player
+[16-05-2021 18:06:06] Checking Other_25.gml
+[16-05-2021 18:06:06] Checking KeyPress_32.gml
+[16-05-2021 18:06:06] Checking Draw_0.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerCrosshair
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking PlayerCrosshair.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerCrosshair/PlayerCrosshair.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerCrosshair/PlayerCrosshair.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerCrosshair/PlayerCrosshair.yy"
+[16-05-2021 18:06:06] Found Object: PlayerCrosshair
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerProjectile
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking PlayerProjectile.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerProjectile/PlayerProjectile.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerProjectile/PlayerProjectile.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/PlayerProjectile/PlayerProjectile.yy"
+[16-05-2021 18:06:06] Found Object: PlayerProjectile
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Collision_BossProjectile.gml
+[16-05-2021 18:06:06] Checking Collision_Boss.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyDynamic
+[16-05-2021 18:06:06] Checking RigidbodyDynamic.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyDynamic/RigidbodyDynamic.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyDynamic/RigidbodyDynamic.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyDynamic/RigidbodyDynamic.yy"
+[16-05-2021 18:06:06] Found Object: RigidbodyDynamic
+[16-05-2021 18:06:06] Checking Other_25.gml
+[16-05-2021 18:06:06] Checking Other_10.gml
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Collision_RigidbodyStatic.gml
+[16-05-2021 18:06:06] Checking Collision_RigidbodyDynamic.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyStatic
+[16-05-2021 18:06:06] Checking Step_0.gml
+[16-05-2021 18:06:06] Checking RigidbodyStatic.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyStatic/RigidbodyStatic.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyStatic/RigidbodyStatic.yy
+[16-05-2021 18:06:06] Par: "folders/Objects" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/objects/RigidbodyStatic/RigidbodyStatic.yy"
+[16-05-2021 18:06:06] Found Object: RigidbodyStatic
+[16-05-2021 18:06:06] Checking Create_0.gml
+[16-05-2021 18:06:06] Checking Collision_RigidbodyStatic.gml
+[16-05-2021 18:06:06] Checking Collision_RigidbodyDynamic.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options
+[16-05-2021 18:06:06] Checking windowsuap
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windowsuap
+[16-05-2021 18:06:06] Checking windows
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windows
+[16-05-2021 18:06:06] Checking tvos
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/tvos
+[16-05-2021 18:06:06] Checking main
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/main
+[16-05-2021 18:06:06] Checking mac
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/mac
+[16-05-2021 18:06:06] Checking linux
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/linux
+[16-05-2021 18:06:06] Checking ios
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/ios
+[16-05-2021 18:06:06] Checking html5
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/html5
+[16-05-2021 18:06:06] Checking android
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/android
+[16-05-2021 18:06:06] Checking amazonfire
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/amazonfire
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/amazonfire
+[16-05-2021 18:06:06] Checking options_amazonfire.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/amazonfire/options_amazonfire.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/amazonfire/options_amazonfire.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/android
+[16-05-2021 18:06:06] Checking options_android.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/android/options_android.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/android/options_android.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/html5
+[16-05-2021 18:06:06] Checking options_html5.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/html5/options_html5.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/html5/options_html5.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/ios
+[16-05-2021 18:06:06] Checking options_ios.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/ios/options_ios.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/ios/options_ios.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/linux
+[16-05-2021 18:06:06] Checking options_linux.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/linux/options_linux.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/linux/options_linux.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/mac
+[16-05-2021 18:06:06] Checking options_mac.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/mac/options_mac.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/mac/options_mac.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/main
+[16-05-2021 18:06:06] Checking options_main.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/main/options_main.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/main/options_main.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/tvos
+[16-05-2021 18:06:06] Checking options_tvos.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/tvos/options_tvos.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/tvos/options_tvos.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windows
+[16-05-2021 18:06:06] Checking options_windows.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windows/options_windows.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windows/options_windows.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windowsuap
+[16-05-2021 18:06:06] Checking options_windowsuap.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windowsuap/options_windowsuap.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/options/windowsuap/options_windowsuap.yy
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/paths
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms
+[16-05-2021 18:06:06] Checking WinScreen
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/WinScreen
+[16-05-2021 18:06:06] Checking Title
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Title
+[16-05-2021 18:06:06] Checking Overworld
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Overworld
+[16-05-2021 18:06:06] Checking LoseScreen
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/LoseScreen
+[16-05-2021 18:06:06] Checking CutscenePlanet2
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet2
+[16-05-2021 18:06:06] Checking CutscenePlanet1
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet1
+[16-05-2021 18:06:06] Checking CutscenePlanet0
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet0
+[16-05-2021 18:06:06] Checking CutsceneIntro
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutsceneIntro
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutsceneIntro
+[16-05-2021 18:06:06] Checking CutsceneIntro.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutsceneIntro/CutsceneIntro.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutsceneIntro/CutsceneIntro.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutsceneIntro/CutsceneIntro.yy"
+[16-05-2021 18:06:06] Found Room: CutsceneIntro
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet0
+[16-05-2021 18:06:06] Checking CutscenePlanet0.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet0/CutscenePlanet0.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet0/CutscenePlanet0.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet0/CutscenePlanet0.yy"
+[16-05-2021 18:06:06] Found Room: CutscenePlanet0
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet1
+[16-05-2021 18:06:06] Checking CutscenePlanet1.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet1/CutscenePlanet1.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet1/CutscenePlanet1.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet1/CutscenePlanet1.yy"
+[16-05-2021 18:06:06] Found Room: CutscenePlanet1
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet2
+[16-05-2021 18:06:06] Checking CutscenePlanet2.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet2/CutscenePlanet2.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet2/CutscenePlanet2.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/CutscenePlanet2/CutscenePlanet2.yy"
+[16-05-2021 18:06:06] Found Room: CutscenePlanet2
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/LoseScreen
+[16-05-2021 18:06:06] Checking LoseScreen.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/LoseScreen/LoseScreen.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/LoseScreen/LoseScreen.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/LoseScreen/LoseScreen.yy"
+[16-05-2021 18:06:06] Found Room: LoseScreen
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Overworld
+[16-05-2021 18:06:06] Checking Overworld.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Overworld/Overworld.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Overworld/Overworld.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Overworld/Overworld.yy"
+[16-05-2021 18:06:06] Found Room: Overworld
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Title
+[16-05-2021 18:06:06] Checking Title.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Title/Title.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Title/Title.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/Title/Title.yy"
+[16-05-2021 18:06:06] Found Room: Title
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/WinScreen
+[16-05-2021 18:06:06] Checking WinScreen.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/WinScreen/WinScreen.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/WinScreen/WinScreen.yy
+[16-05-2021 18:06:06] Par: "folders/Rooms" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/rooms/WinScreen/WinScreen.yy"
+[16-05-2021 18:06:06] Found Room: WinScreen
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts
+[16-05-2021 18:06:06] Checking SkipDialogue
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/SkipDialogue
+[16-05-2021 18:06:06] Checking Script3
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/Script3
+[16-05-2021 18:06:06] Checking LocalPosition
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/LocalPosition
+[16-05-2021 18:06:06] Checking ChangeDialogue
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/ChangeDialogue
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/ChangeDialogue
+[16-05-2021 18:06:06] Checking ChangeDialogue.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/ChangeDialogue/ChangeDialogue.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/ChangeDialogue/ChangeDialogue.yy
+[16-05-2021 18:06:06] Par: "folders/Scripts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/ChangeDialogue/ChangeDialogue.yy"
+[16-05-2021 18:06:06] Found Script: ChangeDialogue
+[16-05-2021 18:06:06] Checking ChangeDialogue.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/LocalPosition
+[16-05-2021 18:06:06] Checking LocalPosition.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/LocalPosition/LocalPosition.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/LocalPosition/LocalPosition.yy
+[16-05-2021 18:06:06] Par: "folders/Scripts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/LocalPosition/LocalPosition.yy"
+[16-05-2021 18:06:06] Found Script: LocalPosition
+[16-05-2021 18:06:06] Checking LocalPosition.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/Script3
+[16-05-2021 18:06:06] Checking Script3.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/Script3/Script3.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/Script3/Script3.yy
+[16-05-2021 18:06:06] Par: "folders/Scripts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/Script3/Script3.yy"
+[16-05-2021 18:06:06] Found Script: Script3
+[16-05-2021 18:06:06] Checking Script3.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/SkipDialogue
+[16-05-2021 18:06:06] Checking SkipDialogue.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/SkipDialogue/SkipDialogue.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/SkipDialogue/SkipDialogue.yy
+[16-05-2021 18:06:06] Par: "folders/Scripts" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/scripts/SkipDialogue/SkipDialogue.yy"
+[16-05-2021 18:06:06] Found Script: SkipDialogue
+[16-05-2021 18:06:06] Checking SkipDialogue.gml
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sequences
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/shaders
+[16-05-2021 18:06:06] Checking Shader1
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/shaders/Shader1
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/shaders/Shader1
+[16-05-2021 18:06:06] Checking Shader1.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/shaders/Shader1/Shader1.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/shaders/Shader1/Shader1.yy
+[16-05-2021 18:06:06] Par: "folders/Shaders" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/shaders/Shader1/Shader1.yy"
+[16-05-2021 18:06:06] Found Shader: Shader1
+[16-05-2021 18:06:06] Checking Shader1.vsh
+[16-05-2021 18:06:06] Checking Shader1.fsh
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds
+[16-05-2021 18:06:06] Checking ThrusterFire
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/ThrusterFire
+[16-05-2021 18:06:06] Checking rocketAlienHit
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/rocketAlienHit
+[16-05-2021 18:06:06] Checking playerShootMissle
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/playerShootMissle
+[16-05-2021 18:06:06] Checking MissleHitsBoss
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/MissleHitsBoss
+[16-05-2021 18:06:06] Checking IntroMusic
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/IntroMusic
+[16-05-2021 18:06:06] Checking BoundaryWarning
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BoundaryWarning
+[16-05-2021 18:06:06] Checking BossMissleHitsPlayer
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossMissleHitsPlayer
+[16-05-2021 18:06:06] Checking BossFireMissles
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossFireMissles
+[16-05-2021 18:06:06] Checking AsteroidHitTemp
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/AsteroidHitTemp
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/AsteroidHitTemp
+[16-05-2021 18:06:06] Checking AsteroidHitTemp.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/AsteroidHitTemp/AsteroidHitTemp.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/AsteroidHitTemp/AsteroidHitTemp.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/AsteroidHitTemp/AsteroidHitTemp.yy"
+[16-05-2021 18:06:06] Found Sound: AsteroidHitTemp
+[16-05-2021 18:06:06] Checking AsteroidHitTemp.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossFireMissles
+[16-05-2021 18:06:06] Checking BossFireMissles.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossFireMissles/BossFireMissles.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossFireMissles/BossFireMissles.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossFireMissles/BossFireMissles.yy"
+[16-05-2021 18:06:06] Found Sound: BossFireMissles
+[16-05-2021 18:06:06] Checking BossFireMissles.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossMissleHitsPlayer
+[16-05-2021 18:06:06] Checking BossMissleHitsPlayer.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossMissleHitsPlayer/BossMissleHitsPlayer.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossMissleHitsPlayer/BossMissleHitsPlayer.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BossMissleHitsPlayer/BossMissleHitsPlayer.yy"
+[16-05-2021 18:06:06] Found Sound: BossMissleHitsPlayer
+[16-05-2021 18:06:06] Checking BossMissleHitsPlayer.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BoundaryWarning
+[16-05-2021 18:06:06] Checking BoundaryWarning.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BoundaryWarning/BoundaryWarning.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BoundaryWarning/BoundaryWarning.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/BoundaryWarning/BoundaryWarning.yy"
+[16-05-2021 18:06:06] Found Sound: BoundaryWarning
+[16-05-2021 18:06:06] Checking BoundaryWarning.wav
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/IntroMusic
+[16-05-2021 18:06:06] Checking IntroMusic.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/IntroMusic/IntroMusic.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/IntroMusic/IntroMusic.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/IntroMusic/IntroMusic.yy"
+[16-05-2021 18:06:06] Found Sound: IntroMusic
+[16-05-2021 18:06:06] Checking IntroMusic.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/MissleHitsBoss
+[16-05-2021 18:06:06] Checking MissleHitsBoss.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/MissleHitsBoss/MissleHitsBoss.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/MissleHitsBoss/MissleHitsBoss.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/MissleHitsBoss/MissleHitsBoss.yy"
+[16-05-2021 18:06:06] Found Sound: MissleHitsBoss
+[16-05-2021 18:06:06] Checking MissleHitsBoss.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/playerShootMissle
+[16-05-2021 18:06:06] Checking playerShootMissle.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/playerShootMissle/playerShootMissle.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/playerShootMissle/playerShootMissle.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/playerShootMissle/playerShootMissle.yy"
+[16-05-2021 18:06:06] Found Sound: playerShootMissle
+[16-05-2021 18:06:06] Checking playerShootMissle.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/rocketAlienHit
+[16-05-2021 18:06:06] Checking rocketAlienHit.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/rocketAlienHit/rocketAlienHit.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/rocketAlienHit/rocketAlienHit.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/rocketAlienHit/rocketAlienHit.yy"
+[16-05-2021 18:06:06] Found Sound: rocketAlienHit
+[16-05-2021 18:06:06] Checking rocketAlienHit.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/ThrusterFire
+[16-05-2021 18:06:06] Checking ThrusterFire.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/ThrusterFire/ThrusterFire.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/ThrusterFire/ThrusterFire.yy
+[16-05-2021 18:06:06] Par: "folders/SFX" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sounds/ThrusterFire/ThrusterFire.yy"
+[16-05-2021 18:06:06] Found Sound: ThrusterFire
+[16-05-2021 18:06:06] Checking ThrusterFire.mp3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites
+[16-05-2021 18:06:06] Checking tempGravWell
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell
+[16-05-2021 18:06:06] Checking SprTitle
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle
+[16-05-2021 18:06:06] Checking SprProjectile
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile
+[16-05-2021 18:06:06] Checking sprplanetC
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC
+[16-05-2021 18:06:06] Checking sprplanetB
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB
+[16-05-2021 18:06:06] Checking sprplanetA
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA
+[16-05-2021 18:06:06] Checking SprGravityWell
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell
+[16-05-2021 18:06:06] Checking SprDialogueBox
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox
+[16-05-2021 18:06:06] Checking space_backgroun
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun
+[16-05-2021 18:06:06] Checking Rocket1
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Rocket1
+[16-05-2021 18:06:06] Checking PlayerTemp
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp
+[16-05-2021 18:06:06] Checking planets
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets
+[16-05-2021 18:06:06] Checking PlanetCSpr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr
+[16-05-2021 18:06:06] Checking PlanetBSpr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr
+[16-05-2021 18:06:06] Checking PlanetASpr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr
+[16-05-2021 18:06:06] Checking healthBarBorder
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder
+[16-05-2021 18:06:06] Checking healthBar
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar
+[16-05-2021 18:06:06] Checking Crosshair
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair
+[16-05-2021 18:06:06] Checking CirclePointer
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer
+[16-05-2021 18:06:06] Checking circle100
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100
+[16-05-2021 18:06:06] Checking Circle
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle
+[16-05-2021 18:06:06] Checking BoundarySpr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr
+[16-05-2021 18:06:06] Checking BossSprite
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite
+[16-05-2021 18:06:06] Checking BossProjectileSprite
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite
+[16-05-2021 18:06:06] Checking Background2_5
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5
+[16-05-2021 18:06:06] Checking Background2_4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4
+[16-05-2021 18:06:06] Checking Background2_3
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3
+[16-05-2021 18:06:06] Checking Background2_2
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2
+[16-05-2021 18:06:06] Checking Background2_1
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1
+[16-05-2021 18:06:06] Checking Background1_4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4
+[16-05-2021 18:06:06] Checking Background1_3
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3
+[16-05-2021 18:06:06] Checking Background1_2
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2
+[16-05-2021 18:06:06] Checking Background1_1
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1
+[16-05-2021 18:06:06] Checking Asteroid3Spr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr
+[16-05-2021 18:06:06] Checking Asteroid2Spr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr
+[16-05-2021 18:06:06] Checking Asteroid1Spr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr
+[16-05-2021 18:06:06] Checking Asteroid1Destroy
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy
+[16-05-2021 18:06:06] Checking Asteroid0Spr
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr
+[16-05-2021 18:06:06] Checking Asteroid0Destroy
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy
+[16-05-2021 18:06:06] Checking AnimWinScreen
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen
+[16-05-2021 18:06:06] Checking AnimGameOver
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers
+[16-05-2021 18:06:06] Checking cea992d8-5862-4746-9564-87d7f48b9940.png
+[16-05-2021 18:06:06] Checking cc0f06e4-d6bc-4aca-8db3-cb9abb4a19f4.png
+[16-05-2021 18:06:06] Checking b6959bb5-e75f-4c99-9306-8ad090cee650.png
+[16-05-2021 18:06:06] Checking AnimGameOver.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/AnimGameOver.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/AnimGameOver.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/AnimGameOver.yy"
+[16-05-2021 18:06:06] Found Sprite: AnimGameOver
+[16-05-2021 18:06:06] Checking ad25cbd5-85eb-45e8-9812-555605e093c4.png
+[16-05-2021 18:06:06] Checking a91de2ab-ddc3-40af-aed0-b7828c004d58.png
+[16-05-2021 18:06:06] Checking a3c8621a-0a94-4716-9181-ae6d68a38c08.png
+[16-05-2021 18:06:06] Checking 9205a1a4-1c1a-4c95-8001-ac21e4e004a0.png
+[16-05-2021 18:06:06] Checking 91c39444-df3f-4824-831a-09a5e5c76b38.png
+[16-05-2021 18:06:06] Checking 7876fdcd-364b-4474-b6d2-7e93a25b45ca.png
+[16-05-2021 18:06:06] Checking 53cf5e44-36c6-4f20-9eac-54666fb41e07.png
+[16-05-2021 18:06:06] Checking 4a75a522-8f2a-418d-bdfa-3b0cbd601b50.png
+[16-05-2021 18:06:06] Checking 491d0aab-c0a0-4196-adf0-a818900483fc.png
+[16-05-2021 18:06:06] Checking 3cbfc0ec-95b3-4695-ba07-5e6ce6e63d86.png
+[16-05-2021 18:06:06] Checking 3a33e6cb-b7c7-4d8a-b7dc-9b2379b97320.png
+[16-05-2021 18:06:06] Checking 389bb897-3935-4fc8-b366-9c11e058e92c.png
+[16-05-2021 18:06:06] Checking 32548a78-33db-4fda-9d5b-f37714972a82.png
+[16-05-2021 18:06:06] Checking 2ca47c3d-2c4b-44fd-b7ad-40965b0d039d.png
+[16-05-2021 18:06:06] Checking 20afdda6-d3a4-4c9c-b5bc-27fdb4b90f65.png
+[16-05-2021 18:06:06] Checking 1ecea782-0832-4f97-bedd-ecfecb8c4b6c.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers
+[16-05-2021 18:06:06] Checking cea992d8-5862-4746-9564-87d7f48b9940
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/cea992d8-5862-4746-9564-87d7f48b9940
+[16-05-2021 18:06:06] Checking cc0f06e4-d6bc-4aca-8db3-cb9abb4a19f4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/cc0f06e4-d6bc-4aca-8db3-cb9abb4a19f4
+[16-05-2021 18:06:06] Checking b6959bb5-e75f-4c99-9306-8ad090cee650
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/b6959bb5-e75f-4c99-9306-8ad090cee650
+[16-05-2021 18:06:06] Checking ad25cbd5-85eb-45e8-9812-555605e093c4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/ad25cbd5-85eb-45e8-9812-555605e093c4
+[16-05-2021 18:06:06] Checking a91de2ab-ddc3-40af-aed0-b7828c004d58
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/a91de2ab-ddc3-40af-aed0-b7828c004d58
+[16-05-2021 18:06:06] Checking a3c8621a-0a94-4716-9181-ae6d68a38c08
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/a3c8621a-0a94-4716-9181-ae6d68a38c08
+[16-05-2021 18:06:06] Checking 9205a1a4-1c1a-4c95-8001-ac21e4e004a0
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/9205a1a4-1c1a-4c95-8001-ac21e4e004a0
+[16-05-2021 18:06:06] Checking 91c39444-df3f-4824-831a-09a5e5c76b38
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/91c39444-df3f-4824-831a-09a5e5c76b38
+[16-05-2021 18:06:06] Checking 7876fdcd-364b-4474-b6d2-7e93a25b45ca
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/7876fdcd-364b-4474-b6d2-7e93a25b45ca
+[16-05-2021 18:06:06] Checking 53cf5e44-36c6-4f20-9eac-54666fb41e07
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/53cf5e44-36c6-4f20-9eac-54666fb41e07
+[16-05-2021 18:06:06] Checking 4a75a522-8f2a-418d-bdfa-3b0cbd601b50
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/4a75a522-8f2a-418d-bdfa-3b0cbd601b50
+[16-05-2021 18:06:06] Checking 491d0aab-c0a0-4196-adf0-a818900483fc
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/491d0aab-c0a0-4196-adf0-a818900483fc
+[16-05-2021 18:06:06] Checking 3cbfc0ec-95b3-4695-ba07-5e6ce6e63d86
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/3cbfc0ec-95b3-4695-ba07-5e6ce6e63d86
+[16-05-2021 18:06:06] Checking 3a33e6cb-b7c7-4d8a-b7dc-9b2379b97320
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/3a33e6cb-b7c7-4d8a-b7dc-9b2379b97320
+[16-05-2021 18:06:06] Checking 389bb897-3935-4fc8-b366-9c11e058e92c
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/389bb897-3935-4fc8-b366-9c11e058e92c
+[16-05-2021 18:06:06] Checking 32548a78-33db-4fda-9d5b-f37714972a82
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/32548a78-33db-4fda-9d5b-f37714972a82
+[16-05-2021 18:06:06] Checking 2ca47c3d-2c4b-44fd-b7ad-40965b0d039d
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/2ca47c3d-2c4b-44fd-b7ad-40965b0d039d
+[16-05-2021 18:06:06] Checking 20afdda6-d3a4-4c9c-b5bc-27fdb4b90f65
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/20afdda6-d3a4-4c9c-b5bc-27fdb4b90f65
+[16-05-2021 18:06:06] Checking 1ecea782-0832-4f97-bedd-ecfecb8c4b6c
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/1ecea782-0832-4f97-bedd-ecfecb8c4b6c
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/1ecea782-0832-4f97-bedd-ecfecb8c4b6c
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/20afdda6-d3a4-4c9c-b5bc-27fdb4b90f65
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/2ca47c3d-2c4b-44fd-b7ad-40965b0d039d
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/32548a78-33db-4fda-9d5b-f37714972a82
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/389bb897-3935-4fc8-b366-9c11e058e92c
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/3a33e6cb-b7c7-4d8a-b7dc-9b2379b97320
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/3cbfc0ec-95b3-4695-ba07-5e6ce6e63d86
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/491d0aab-c0a0-4196-adf0-a818900483fc
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/4a75a522-8f2a-418d-bdfa-3b0cbd601b50
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/53cf5e44-36c6-4f20-9eac-54666fb41e07
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/7876fdcd-364b-4474-b6d2-7e93a25b45ca
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/91c39444-df3f-4824-831a-09a5e5c76b38
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/9205a1a4-1c1a-4c95-8001-ac21e4e004a0
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/a3c8621a-0a94-4716-9181-ae6d68a38c08
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/a91de2ab-ddc3-40af-aed0-b7828c004d58
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/ad25cbd5-85eb-45e8-9812-555605e093c4
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/b6959bb5-e75f-4c99-9306-8ad090cee650
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/cc0f06e4-d6bc-4aca-8db3-cb9abb4a19f4
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimGameOver/layers/cea992d8-5862-4746-9564-87d7f48b9940
+[16-05-2021 18:06:06] Checking c94c279e-9628-4e83-ae39-2bda320deaad.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers
+[16-05-2021 18:06:06] Checking f804943f-c401-4586-b79c-c2ff42400aab.png
+[16-05-2021 18:06:06] Checking f52c3ebe-8f0a-42fe-88e5-65a0cc2d9513.png
+[16-05-2021 18:06:06] Checking f29dc74f-8794-490d-bfc8-8393f94fa05c.png
+[16-05-2021 18:06:06] Checking e4a2a0f9-a2f7-4e91-9161-262c37330b96.png
+[16-05-2021 18:06:06] Checking e2ded727-27a2-479e-9b88-122c091d9fe4.png
+[16-05-2021 18:06:06] Checking dd7d3ceb-8849-453b-abb1-baf052cbecaa.png
+[16-05-2021 18:06:06] Checking d3ef4373-3502-4f96-95c0-b0f14b48bbc6.png
+[16-05-2021 18:06:06] Checking cee8a5d7-971e-4bbe-9fee-040abbb45135.png
+[16-05-2021 18:06:06] Checking becb81ed-787f-479c-89ab-da76700cdc63.png
+[16-05-2021 18:06:06] Checking be3bf8cf-ac7b-4fbb-b0b9-154be0041f0c.png
+[16-05-2021 18:06:06] Checking AnimWinScreen.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/AnimWinScreen.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/AnimWinScreen.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/AnimWinScreen.yy"
+[16-05-2021 18:06:06] Found Sprite: AnimWinScreen
+[16-05-2021 18:06:06] Checking a4de9d9a-fd0d-4ea1-b94c-b31916d51fc2.png
+[16-05-2021 18:06:06] Checking a064bd24-6eb7-4cfa-9de8-d8173d0ce486.png
+[16-05-2021 18:06:06] Checking 8b16c052-913f-4565-a7d1-0a358cac51bb.png
+[16-05-2021 18:06:06] Checking 8b131894-33a7-41a8-83fd-18935922ffea.png
+[16-05-2021 18:06:06] Checking 89f07112-2116-4167-9b83-7f5fe702a3e7.png
+[16-05-2021 18:06:06] Checking 71a39b8b-0072-43ab-aa1a-8c5716ca7456.png
+[16-05-2021 18:06:06] Checking 6fae87f2-ef45-47b9-a316-ffc096706dfc.png
+[16-05-2021 18:06:06] Checking 64a9e98e-ff25-4a37-8d85-ad12673ef835.png
+[16-05-2021 18:06:06] Checking 49ea8087-332f-4fd1-888c-2109ecd822ab.png
+[16-05-2021 18:06:06] Checking 49d7d8bb-e72d-4e72-b0ee-0f19073d0188.png
+[16-05-2021 18:06:06] Checking 440d9350-b5ec-4d7a-9340-e85dd21dbed6.png
+[16-05-2021 18:06:06] Checking 2f18e42f-be95-4291-84a0-d0e7f437a242.png
+[16-05-2021 18:06:06] Checking 25d47916-3b87-4191-9db0-ec695cca5ade.png
+[16-05-2021 18:06:06] Checking 1022d2f7-2a02-4489-ab25-79f1932d41e7.png
+[16-05-2021 18:06:06] Checking 0ee0e15c-b1ae-4119-990f-cd2bfa74f311.png
+[16-05-2021 18:06:06] Checking 0e14f7d5-9f95-4f7b-bfc3-4aa6b31ff746.png
+[16-05-2021 18:06:06] Checking 0b7d75c6-a4f4-4f07-adcf-8bfaa934d444.png
+[16-05-2021 18:06:06] Checking 0af7e820-70d1-4a1f-afaf-3bc6dfed0e8d.png
+[16-05-2021 18:06:06] Checking 0ac79cb3-939b-4ee0-95a0-241988103099.png
+[16-05-2021 18:06:06] Checking 083571d1-ed13-4019-a484-212dd36b00c6.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers
+[16-05-2021 18:06:06] Checking f804943f-c401-4586-b79c-c2ff42400aab
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/f804943f-c401-4586-b79c-c2ff42400aab
+[16-05-2021 18:06:06] Checking f52c3ebe-8f0a-42fe-88e5-65a0cc2d9513
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/f52c3ebe-8f0a-42fe-88e5-65a0cc2d9513
+[16-05-2021 18:06:06] Checking f29dc74f-8794-490d-bfc8-8393f94fa05c
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/f29dc74f-8794-490d-bfc8-8393f94fa05c
+[16-05-2021 18:06:06] Checking e4a2a0f9-a2f7-4e91-9161-262c37330b96
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/e4a2a0f9-a2f7-4e91-9161-262c37330b96
+[16-05-2021 18:06:06] Checking e2ded727-27a2-479e-9b88-122c091d9fe4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/e2ded727-27a2-479e-9b88-122c091d9fe4
+[16-05-2021 18:06:06] Checking dd7d3ceb-8849-453b-abb1-baf052cbecaa
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/dd7d3ceb-8849-453b-abb1-baf052cbecaa
+[16-05-2021 18:06:06] Checking d3ef4373-3502-4f96-95c0-b0f14b48bbc6
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/d3ef4373-3502-4f96-95c0-b0f14b48bbc6
+[16-05-2021 18:06:06] Checking cee8a5d7-971e-4bbe-9fee-040abbb45135
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/cee8a5d7-971e-4bbe-9fee-040abbb45135
+[16-05-2021 18:06:06] Checking becb81ed-787f-479c-89ab-da76700cdc63
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/becb81ed-787f-479c-89ab-da76700cdc63
+[16-05-2021 18:06:06] Checking be3bf8cf-ac7b-4fbb-b0b9-154be0041f0c
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/be3bf8cf-ac7b-4fbb-b0b9-154be0041f0c
+[16-05-2021 18:06:06] Checking a4de9d9a-fd0d-4ea1-b94c-b31916d51fc2
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/a4de9d9a-fd0d-4ea1-b94c-b31916d51fc2
+[16-05-2021 18:06:06] Checking a064bd24-6eb7-4cfa-9de8-d8173d0ce486
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/a064bd24-6eb7-4cfa-9de8-d8173d0ce486
+[16-05-2021 18:06:06] Checking 8b16c052-913f-4565-a7d1-0a358cac51bb
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/8b16c052-913f-4565-a7d1-0a358cac51bb
+[16-05-2021 18:06:06] Checking 8b131894-33a7-41a8-83fd-18935922ffea
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/8b131894-33a7-41a8-83fd-18935922ffea
+[16-05-2021 18:06:06] Checking 89f07112-2116-4167-9b83-7f5fe702a3e7
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/89f07112-2116-4167-9b83-7f5fe702a3e7
+[16-05-2021 18:06:06] Checking 71a39b8b-0072-43ab-aa1a-8c5716ca7456
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/71a39b8b-0072-43ab-aa1a-8c5716ca7456
+[16-05-2021 18:06:06] Checking 6fae87f2-ef45-47b9-a316-ffc096706dfc
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/6fae87f2-ef45-47b9-a316-ffc096706dfc
+[16-05-2021 18:06:06] Checking 64a9e98e-ff25-4a37-8d85-ad12673ef835
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/64a9e98e-ff25-4a37-8d85-ad12673ef835
+[16-05-2021 18:06:06] Checking 49ea8087-332f-4fd1-888c-2109ecd822ab
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/49ea8087-332f-4fd1-888c-2109ecd822ab
+[16-05-2021 18:06:06] Checking 49d7d8bb-e72d-4e72-b0ee-0f19073d0188
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/49d7d8bb-e72d-4e72-b0ee-0f19073d0188
+[16-05-2021 18:06:06] Checking 440d9350-b5ec-4d7a-9340-e85dd21dbed6
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/440d9350-b5ec-4d7a-9340-e85dd21dbed6
+[16-05-2021 18:06:06] Checking 2f18e42f-be95-4291-84a0-d0e7f437a242
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/2f18e42f-be95-4291-84a0-d0e7f437a242
+[16-05-2021 18:06:06] Checking 25d47916-3b87-4191-9db0-ec695cca5ade
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/25d47916-3b87-4191-9db0-ec695cca5ade
+[16-05-2021 18:06:06] Checking 1022d2f7-2a02-4489-ab25-79f1932d41e7
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/1022d2f7-2a02-4489-ab25-79f1932d41e7
+[16-05-2021 18:06:06] Checking 0ee0e15c-b1ae-4119-990f-cd2bfa74f311
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0ee0e15c-b1ae-4119-990f-cd2bfa74f311
+[16-05-2021 18:06:06] Checking 0e14f7d5-9f95-4f7b-bfc3-4aa6b31ff746
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0e14f7d5-9f95-4f7b-bfc3-4aa6b31ff746
+[16-05-2021 18:06:06] Checking 0b7d75c6-a4f4-4f07-adcf-8bfaa934d444
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0b7d75c6-a4f4-4f07-adcf-8bfaa934d444
+[16-05-2021 18:06:06] Checking 0af7e820-70d1-4a1f-afaf-3bc6dfed0e8d
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0af7e820-70d1-4a1f-afaf-3bc6dfed0e8d
+[16-05-2021 18:06:06] Checking 0ac79cb3-939b-4ee0-95a0-241988103099
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0ac79cb3-939b-4ee0-95a0-241988103099
+[16-05-2021 18:06:06] Checking 083571d1-ed13-4019-a484-212dd36b00c6
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/083571d1-ed13-4019-a484-212dd36b00c6
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/083571d1-ed13-4019-a484-212dd36b00c6
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0ac79cb3-939b-4ee0-95a0-241988103099
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0af7e820-70d1-4a1f-afaf-3bc6dfed0e8d
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0b7d75c6-a4f4-4f07-adcf-8bfaa934d444
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0e14f7d5-9f95-4f7b-bfc3-4aa6b31ff746
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/0ee0e15c-b1ae-4119-990f-cd2bfa74f311
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/1022d2f7-2a02-4489-ab25-79f1932d41e7
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/25d47916-3b87-4191-9db0-ec695cca5ade
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/2f18e42f-be95-4291-84a0-d0e7f437a242
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/440d9350-b5ec-4d7a-9340-e85dd21dbed6
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/49d7d8bb-e72d-4e72-b0ee-0f19073d0188
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/49ea8087-332f-4fd1-888c-2109ecd822ab
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/64a9e98e-ff25-4a37-8d85-ad12673ef835
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/6fae87f2-ef45-47b9-a316-ffc096706dfc
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/71a39b8b-0072-43ab-aa1a-8c5716ca7456
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/89f07112-2116-4167-9b83-7f5fe702a3e7
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/8b131894-33a7-41a8-83fd-18935922ffea
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/8b16c052-913f-4565-a7d1-0a358cac51bb
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/a064bd24-6eb7-4cfa-9de8-d8173d0ce486
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/a4de9d9a-fd0d-4ea1-b94c-b31916d51fc2
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/be3bf8cf-ac7b-4fbb-b0b9-154be0041f0c
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/becb81ed-787f-479c-89ab-da76700cdc63
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/cee8a5d7-971e-4bbe-9fee-040abbb45135
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/d3ef4373-3502-4f96-95c0-b0f14b48bbc6
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/dd7d3ceb-8849-453b-abb1-baf052cbecaa
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/e2ded727-27a2-479e-9b88-122c091d9fe4
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/e4a2a0f9-a2f7-4e91-9161-262c37330b96
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/f29dc74f-8794-490d-bfc8-8393f94fa05c
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/f52c3ebe-8f0a-42fe-88e5-65a0cc2d9513
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/AnimWinScreen/layers/f804943f-c401-4586-b79c-c2ff42400aab
+[16-05-2021 18:06:06] Checking ff325a73-a02e-4c66-804c-f64a4e5ced44.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers
+[16-05-2021 18:06:06] Checking ee9d167a-d668-4457-b670-c894e4a661ac.png
+[16-05-2021 18:06:06] Checking Asteroid1Destroy0.yy
+[16-05-2021 18:06:06] Trash file: Asteroid1Destroy0.yy, will be moved to ___yyp_maker_trash
+[16-05-2021 18:06:06] Checking Asteroid0Destroy.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/Asteroid0Destroy.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/Asteroid0Destroy.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/Asteroid0Destroy.yy"
+[16-05-2021 18:06:06] Found Sprite: Asteroid0Destroy
+[16-05-2021 18:06:06] Checking 925ed571-efd8-4da5-a1bf-f3e4a3ef994f.png
+[16-05-2021 18:06:06] Checking 907d1b24-ef34-4379-82a1-e133f3af3377.png
+[16-05-2021 18:06:06] Checking 2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers
+[16-05-2021 18:06:06] Checking ee9d167a-d668-4457-b670-c894e4a661ac
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/ee9d167a-d668-4457-b670-c894e4a661ac
+[16-05-2021 18:06:06] Checking 925ed571-efd8-4da5-a1bf-f3e4a3ef994f
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/925ed571-efd8-4da5-a1bf-f3e4a3ef994f
+[16-05-2021 18:06:06] Checking 907d1b24-ef34-4379-82a1-e133f3af3377
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/907d1b24-ef34-4379-82a1-e133f3af3377
+[16-05-2021 18:06:06] Checking 2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/907d1b24-ef34-4379-82a1-e133f3af3377
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/925ed571-efd8-4da5-a1bf-f3e4a3ef994f
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Destroy/layers/ee9d167a-d668-4457-b670-c894e4a661ac
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/layers
+[16-05-2021 18:06:06] Checking Asteroid0Spr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/Asteroid0Spr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/Asteroid0Spr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/Asteroid0Spr.yy"
+[16-05-2021 18:06:06] Found Sprite: Asteroid0Spr
+[16-05-2021 18:06:06] Checking 609d897f-cd37-42ac-83d9-cc2f3849777f.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/layers
+[16-05-2021 18:06:06] Checking 609d897f-cd37-42ac-83d9-cc2f3849777f
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/layers/609d897f-cd37-42ac-83d9-cc2f3849777f
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid0Spr/layers/609d897f-cd37-42ac-83d9-cc2f3849777f
+[16-05-2021 18:06:06] Checking f5f346d2-9f70-4001-afa6-5853f65a35a2.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers
+[16-05-2021 18:06:06] Checking ee9d167a-d668-4457-b670-c894e4a661ac.png
+[16-05-2021 18:06:06] Checking Asteroid1Destroy.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/Asteroid1Destroy.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/Asteroid1Destroy.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/Asteroid1Destroy.yy"
+[16-05-2021 18:06:06] Found Sprite: Asteroid1Destroy
+[16-05-2021 18:06:06] Checking 925ed571-efd8-4da5-a1bf-f3e4a3ef994f.png
+[16-05-2021 18:06:06] Checking 907d1b24-ef34-4379-82a1-e133f3af3377.png
+[16-05-2021 18:06:06] Checking 2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers
+[16-05-2021 18:06:06] Checking ee9d167a-d668-4457-b670-c894e4a661ac
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/ee9d167a-d668-4457-b670-c894e4a661ac
+[16-05-2021 18:06:06] Checking 925ed571-efd8-4da5-a1bf-f3e4a3ef994f
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/925ed571-efd8-4da5-a1bf-f3e4a3ef994f
+[16-05-2021 18:06:06] Checking 907d1b24-ef34-4379-82a1-e133f3af3377
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/907d1b24-ef34-4379-82a1-e133f3af3377
+[16-05-2021 18:06:06] Checking 2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/2b1f9c8f-b0b6-40bd-bb0a-d60dd05d9850
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/907d1b24-ef34-4379-82a1-e133f3af3377
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/925ed571-efd8-4da5-a1bf-f3e4a3ef994f
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Destroy/layers/ee9d167a-d668-4457-b670-c894e4a661ac
+[16-05-2021 18:06:06] Checking 6bf7d436-52dd-454c-aeb6-619434dc6fe1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/layers
+[16-05-2021 18:06:06] Checking Asteroid1Spr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/Asteroid1Spr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/Asteroid1Spr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/Asteroid1Spr.yy"
+[16-05-2021 18:06:06] Found Sprite: Asteroid1Spr
+[16-05-2021 18:06:06] Checking 3a236911-7372-4c52-b731-1dfbe698d655.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/layers
+[16-05-2021 18:06:06] Checking 3a236911-7372-4c52-b731-1dfbe698d655
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/layers/3a236911-7372-4c52-b731-1dfbe698d655
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid1Spr/layers/3a236911-7372-4c52-b731-1dfbe698d655
+[16-05-2021 18:06:06] Checking b10c6ae7-eee0-4c62-852b-255ea65d0977.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/layers
+[16-05-2021 18:06:06] Checking b0ff284d-2ef3-4aed-a4e8-b191f8ec3f06.png
+[16-05-2021 18:06:06] Checking Asteroid2Spr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/Asteroid2Spr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/Asteroid2Spr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/Asteroid2Spr.yy"
+[16-05-2021 18:06:06] Found Sprite: Asteroid2Spr
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/layers
+[16-05-2021 18:06:06] Checking b0ff284d-2ef3-4aed-a4e8-b191f8ec3f06
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/layers/b0ff284d-2ef3-4aed-a4e8-b191f8ec3f06
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid2Spr/layers/b0ff284d-2ef3-4aed-a4e8-b191f8ec3f06
+[16-05-2021 18:06:06] Checking a6079933-67e4-47e0-b1cd-58705ce5ddf2.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/layers
+[16-05-2021 18:06:06] Checking Asteroid3Spr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/Asteroid3Spr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/Asteroid3Spr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/Asteroid3Spr.yy"
+[16-05-2021 18:06:06] Found Sprite: Asteroid3Spr
+[16-05-2021 18:06:06] Checking 52739ecd-6d5c-4792-a1d5-50f33d34f4a4.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/layers
+[16-05-2021 18:06:06] Checking 52739ecd-6d5c-4792-a1d5-50f33d34f4a4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/layers/52739ecd-6d5c-4792-a1d5-50f33d34f4a4
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Asteroid3Spr/layers/52739ecd-6d5c-4792-a1d5-50f33d34f4a4
+[16-05-2021 18:06:06] Checking 05588ea4-2460-4d7a-bf5d-2ba70d713ae3.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/layers
+[16-05-2021 18:06:06] Checking Background1_1.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/Background1_1.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/Background1_1.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/Background1_1.yy"
+[16-05-2021 18:06:06] Found Sprite: Background1_1
+[16-05-2021 18:06:06] Checking 9cb0b7bc-8dc0-4070-be98-745b71790d79.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/layers
+[16-05-2021 18:06:06] Checking 9cb0b7bc-8dc0-4070-be98-745b71790d79
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/layers/9cb0b7bc-8dc0-4070-be98-745b71790d79
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_1/layers/9cb0b7bc-8dc0-4070-be98-745b71790d79
+[16-05-2021 18:06:06] Checking b0c7f4b8-7843-4703-8762-1ace1fe491b3.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/layers
+[16-05-2021 18:06:06] Checking Background1_2.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/Background1_2.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/Background1_2.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/Background1_2.yy"
+[16-05-2021 18:06:06] Found Sprite: Background1_2
+[16-05-2021 18:06:06] Checking af92d06b-f6aa-4e3b-b19b-c40067cda29a.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/layers
+[16-05-2021 18:06:06] Checking af92d06b-f6aa-4e3b-b19b-c40067cda29a
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/layers/af92d06b-f6aa-4e3b-b19b-c40067cda29a
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_2/layers/af92d06b-f6aa-4e3b-b19b-c40067cda29a
+[16-05-2021 18:06:06] Checking e51fda01-23d6-475e-b50e-b2d1b4b33b4f.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/layers
+[16-05-2021 18:06:06] Checking Background1_3.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/Background1_3.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/Background1_3.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/Background1_3.yy"
+[16-05-2021 18:06:06] Found Sprite: Background1_3
+[16-05-2021 18:06:06] Checking 6c453e3c-0e14-4b3d-98af-0a116ce4f7db.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/layers
+[16-05-2021 18:06:06] Checking 6c453e3c-0e14-4b3d-98af-0a116ce4f7db
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/layers/6c453e3c-0e14-4b3d-98af-0a116ce4f7db
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_3/layers/6c453e3c-0e14-4b3d-98af-0a116ce4f7db
+[16-05-2021 18:06:06] Checking c542d581-da90-4cb5-81ff-9eb270517607.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/layers
+[16-05-2021 18:06:06] Checking Background1_4.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/Background1_4.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/Background1_4.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/Background1_4.yy"
+[16-05-2021 18:06:06] Found Sprite: Background1_4
+[16-05-2021 18:06:06] Checking 39d411e3-7ac6-436d-a0d5-7589ec964b97.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/layers
+[16-05-2021 18:06:06] Checking 39d411e3-7ac6-436d-a0d5-7589ec964b97
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/layers/39d411e3-7ac6-436d-a0d5-7589ec964b97
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background1_4/layers/39d411e3-7ac6-436d-a0d5-7589ec964b97
+[16-05-2021 18:06:06] Checking d39da08f-133d-44be-8ead-43b56560fe1d.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/layers
+[16-05-2021 18:06:06] Checking e8d2b0ee-e3af-4bec-848a-f80c80189d6d.png
+[16-05-2021 18:06:06] Checking Background2_1.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/Background2_1.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/Background2_1.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/Background2_1.yy"
+[16-05-2021 18:06:06] Found Sprite: Background2_1
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/layers
+[16-05-2021 18:06:06] Checking e8d2b0ee-e3af-4bec-848a-f80c80189d6d
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/layers/e8d2b0ee-e3af-4bec-848a-f80c80189d6d
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_1/layers/e8d2b0ee-e3af-4bec-848a-f80c80189d6d
+[16-05-2021 18:06:06] Checking 2a22ba1b-e4c9-4156-9366-365dd2780982.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/layers
+[16-05-2021 18:06:06] Checking Background2_2.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/Background2_2.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/Background2_2.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/Background2_2.yy"
+[16-05-2021 18:06:06] Found Sprite: Background2_2
+[16-05-2021 18:06:06] Checking 306375db-a9be-48a5-94c8-9d6bd3a0c598.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/layers
+[16-05-2021 18:06:06] Checking 306375db-a9be-48a5-94c8-9d6bd3a0c598
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/layers/306375db-a9be-48a5-94c8-9d6bd3a0c598
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_2/layers/306375db-a9be-48a5-94c8-9d6bd3a0c598
+[16-05-2021 18:06:06] Checking 1ca9dcf0-00f3-46e9-b27b-51197eddf1f3.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/layers
+[16-05-2021 18:06:06] Checking Background2_3.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/Background2_3.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/Background2_3.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/Background2_3.yy"
+[16-05-2021 18:06:06] Found Sprite: Background2_3
+[16-05-2021 18:06:06] Checking 19adb4ac-d255-4cab-aee1-67a20069b573.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/layers
+[16-05-2021 18:06:06] Checking 19adb4ac-d255-4cab-aee1-67a20069b573
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/layers/19adb4ac-d255-4cab-aee1-67a20069b573
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_3/layers/19adb4ac-d255-4cab-aee1-67a20069b573
+[16-05-2021 18:06:06] Checking 65547c9d-af4d-427b-80c4-e4d3568da649.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/layers
+[16-05-2021 18:06:06] Checking Background2_4.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/Background2_4.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/Background2_4.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/Background2_4.yy"
+[16-05-2021 18:06:06] Found Sprite: Background2_4
+[16-05-2021 18:06:06] Checking 19e0d8bb-5f37-4cef-8869-e30ef7fd57d3.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/layers
+[16-05-2021 18:06:06] Checking 19e0d8bb-5f37-4cef-8869-e30ef7fd57d3
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/layers/19e0d8bb-5f37-4cef-8869-e30ef7fd57d3
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_4/layers/19e0d8bb-5f37-4cef-8869-e30ef7fd57d3
+[16-05-2021 18:06:06] Checking 91958b14-2dd6-4c01-a88e-74367fa89451.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/layers
+[16-05-2021 18:06:06] Checking Background2_5.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/Background2_5.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/Background2_5.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/Background2_5.yy"
+[16-05-2021 18:06:06] Found Sprite: Background2_5
+[16-05-2021 18:06:06] Checking 51901966-8120-4f4e-8352-db620387fe54.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/layers
+[16-05-2021 18:06:06] Checking 51901966-8120-4f4e-8352-db620387fe54
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/layers/51901966-8120-4f4e-8352-db620387fe54
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Background2_5/layers/51901966-8120-4f4e-8352-db620387fe54
+[16-05-2021 18:06:06] Checking cf23eb19-8dcb-4c77-96cf-23255a579a30.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/layers
+[16-05-2021 18:06:06] Checking BossProjectileSprite.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/BossProjectileSprite.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/BossProjectileSprite.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/BossProjectileSprite.yy"
+[16-05-2021 18:06:06] Found Sprite: BossProjectileSprite
+[16-05-2021 18:06:06] Checking 777f99e7-8405-4ace-8f32-59ba8eb2acb0.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/layers
+[16-05-2021 18:06:06] Checking 777f99e7-8405-4ace-8f32-59ba8eb2acb0
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/layers/777f99e7-8405-4ace-8f32-59ba8eb2acb0
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossProjectileSprite/layers/777f99e7-8405-4ace-8f32-59ba8eb2acb0
+[16-05-2021 18:06:06] Checking e0aa22d1-c1c2-485e-9251-d04b45abe6e1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/layers
+[16-05-2021 18:06:06] Checking BossSprite.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/BossSprite.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/BossSprite.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/BossSprite.yy"
+[16-05-2021 18:06:06] Found Sprite: BossSprite
+[16-05-2021 18:06:06] Checking 61990912-6175-44a3-8065-9db859bfc99a.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/layers
+[16-05-2021 18:06:06] Checking 61990912-6175-44a3-8065-9db859bfc99a
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/layers/61990912-6175-44a3-8065-9db859bfc99a
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BossSprite/layers/61990912-6175-44a3-8065-9db859bfc99a
+[16-05-2021 18:06:06] Checking e92348e4-51c0-4914-ab97-d20bfa79e3e6.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/layers
+[16-05-2021 18:06:06] Checking BoundarySpr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/BoundarySpr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/BoundarySpr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/BoundarySpr.yy"
+[16-05-2021 18:06:06] Found Sprite: BoundarySpr
+[16-05-2021 18:06:06] Checking 85677c53-5328-4847-ad38-8558b8cdd16b.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/layers
+[16-05-2021 18:06:06] Checking 85677c53-5328-4847-ad38-8558b8cdd16b
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/layers/85677c53-5328-4847-ad38-8558b8cdd16b
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/BoundarySpr/layers/85677c53-5328-4847-ad38-8558b8cdd16b
+[16-05-2021 18:06:06] Checking 95c52c5b-6fe6-46ef-9a2e-89aebcbfb9c1.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/layers
+[16-05-2021 18:06:06] Checking Circle.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/Circle.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/Circle.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/Circle.yy"
+[16-05-2021 18:06:06] Found Sprite: Circle
+[16-05-2021 18:06:06] Checking cf94f403-2be1-4687-b901-8eb51f71c869.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/layers
+[16-05-2021 18:06:06] Checking cf94f403-2be1-4687-b901-8eb51f71c869
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/layers/cf94f403-2be1-4687-b901-8eb51f71c869
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Circle/layers/cf94f403-2be1-4687-b901-8eb51f71c869
+[16-05-2021 18:06:06] Checking 5bd9a6fc-c41e-4316-9c11-d83cef3e667c.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/layers
+[16-05-2021 18:06:06] Checking circle100.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/circle100.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/circle100.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/circle100.yy"
+[16-05-2021 18:06:06] Found Sprite: circle100
+[16-05-2021 18:06:06] Checking 13274f94-5379-4f3c-ae48-bf1178a4db59.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/layers
+[16-05-2021 18:06:06] Checking 13274f94-5379-4f3c-ae48-bf1178a4db59
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/layers/13274f94-5379-4f3c-ae48-bf1178a4db59
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/circle100/layers/13274f94-5379-4f3c-ae48-bf1178a4db59
+[16-05-2021 18:06:06] Checking 37cc8149-60ac-4f52-a53f-d3388e337940.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/layers
+[16-05-2021 18:06:06] Checking CirclePointer.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/CirclePointer.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/CirclePointer.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/CirclePointer.yy"
+[16-05-2021 18:06:06] Found Sprite: CirclePointer
+[16-05-2021 18:06:06] Checking 5e94c54a-8991-40f4-95a1-427c68c20187.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/layers
+[16-05-2021 18:06:06] Checking 5e94c54a-8991-40f4-95a1-427c68c20187
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/layers/5e94c54a-8991-40f4-95a1-427c68c20187
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/CirclePointer/layers/5e94c54a-8991-40f4-95a1-427c68c20187
+[16-05-2021 18:06:06] Checking 0de6a931-7c30-425e-baee-830d1bcbfc63.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/layers
+[16-05-2021 18:06:06] Checking Crosshair.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/Crosshair.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/Crosshair.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/Crosshair.yy"
+[16-05-2021 18:06:06] Found Sprite: Crosshair
+[16-05-2021 18:06:06] Checking 7e175d6f-1434-4dc7-a35f-8b87068246f9.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/layers
+[16-05-2021 18:06:06] Checking 7e175d6f-1434-4dc7-a35f-8b87068246f9
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/layers/7e175d6f-1434-4dc7-a35f-8b87068246f9
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Crosshair/layers/7e175d6f-1434-4dc7-a35f-8b87068246f9
+[16-05-2021 18:06:06] Checking e7bf65c3-0bcb-4899-8ae5-f11a569e5965.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/layers
+[16-05-2021 18:06:06] Checking healthBar.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/healthBar.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/healthBar.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/healthBar.yy"
+[16-05-2021 18:06:06] Found Sprite: healthBar
+[16-05-2021 18:06:06] Checking a3a58abd-becf-481b-93db-f1a4444d1884.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/layers
+[16-05-2021 18:06:06] Checking a3a58abd-becf-481b-93db-f1a4444d1884
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/layers/a3a58abd-becf-481b-93db-f1a4444d1884
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBar/layers/a3a58abd-becf-481b-93db-f1a4444d1884
+[16-05-2021 18:06:06] Checking 1ec05ec0-7818-4a75-b6ba-28ee43d16dcf.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/layers
+[16-05-2021 18:06:06] Checking healthBarBorder.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/healthBarBorder.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/healthBarBorder.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/healthBarBorder.yy"
+[16-05-2021 18:06:06] Found Sprite: healthBarBorder
+[16-05-2021 18:06:06] Checking 347dfd32-12a8-408b-bd99-0bcedfc601dc.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/layers
+[16-05-2021 18:06:06] Checking 347dfd32-12a8-408b-bd99-0bcedfc601dc
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/layers/347dfd32-12a8-408b-bd99-0bcedfc601dc
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/healthBarBorder/layers/347dfd32-12a8-408b-bd99-0bcedfc601dc
+[16-05-2021 18:06:06] Checking ec005130-1cb3-4c4e-aec2-41b049af5b5c.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr
+[16-05-2021 18:06:06] Checking PlanetASpr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/PlanetASpr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/PlanetASpr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/PlanetASpr.yy"
+[16-05-2021 18:06:06] Found Sprite: PlanetASpr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/layers
+[16-05-2021 18:06:06] Checking 574ca515-73ad-41f7-9eea-1e86a58f081c.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/layers
+[16-05-2021 18:06:06] Checking 574ca515-73ad-41f7-9eea-1e86a58f081c
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/layers/574ca515-73ad-41f7-9eea-1e86a58f081c
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetASpr/layers/574ca515-73ad-41f7-9eea-1e86a58f081c
+[16-05-2021 18:06:06] Checking b45c63d1-ce1a-4804-bcdf-a791f5d8cd39.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr
+[16-05-2021 18:06:06] Checking PlanetBSpr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/PlanetBSpr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/PlanetBSpr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/PlanetBSpr.yy"
+[16-05-2021 18:06:06] Found Sprite: PlanetBSpr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/layers
+[16-05-2021 18:06:06] Checking d18c478a-50ed-419b-a7a3-18b07cf8b028.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/layers
+[16-05-2021 18:06:06] Checking d18c478a-50ed-419b-a7a3-18b07cf8b028
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/layers/d18c478a-50ed-419b-a7a3-18b07cf8b028
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetBSpr/layers/d18c478a-50ed-419b-a7a3-18b07cf8b028
+[16-05-2021 18:06:06] Checking cdfe8dcb-b198-42e0-a04e-1cfc25fb68db.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr
+[16-05-2021 18:06:06] Checking PlanetCSpr.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/PlanetCSpr.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/PlanetCSpr.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/PlanetCSpr.yy"
+[16-05-2021 18:06:06] Found Sprite: PlanetCSpr
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/layers
+[16-05-2021 18:06:06] Checking 92e37c96-bb3b-4357-8324-8c3aea917a18.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/layers
+[16-05-2021 18:06:06] Checking 92e37c96-bb3b-4357-8324-8c3aea917a18
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/layers/92e37c96-bb3b-4357-8324-8c3aea917a18
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlanetCSpr/layers/92e37c96-bb3b-4357-8324-8c3aea917a18
+[16-05-2021 18:06:06] Checking 7766fb25-bdaf-409e-93d9-06f9a057c4b9.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets
+[16-05-2021 18:06:06] Checking planets.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/planets.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/planets.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/planets.yy"
+[16-05-2021 18:06:06] Found Sprite: planets
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/layers
+[16-05-2021 18:06:06] Checking 1e1e6960-bf7f-4d09-b191-c317265da963.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/layers
+[16-05-2021 18:06:06] Checking 1e1e6960-bf7f-4d09-b191-c317265da963
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/layers/1e1e6960-bf7f-4d09-b191-c317265da963
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/planets/layers/1e1e6960-bf7f-4d09-b191-c317265da963
+[16-05-2021 18:06:06] Checking 17312a63-6f33-420b-940b-babe2e967046.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp
+[16-05-2021 18:06:06] Checking PlayerTemp.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/PlayerTemp.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/PlayerTemp.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/PlayerTemp.yy"
+[16-05-2021 18:06:06] Found Sprite: PlayerTemp
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/layers
+[16-05-2021 18:06:06] Checking 82769080-27af-403b-b996-d02e201fb86a.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/layers
+[16-05-2021 18:06:06] Checking 82769080-27af-403b-b996-d02e201fb86a
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/layers/82769080-27af-403b-b996-d02e201fb86a
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/PlayerTemp/layers/82769080-27af-403b-b996-d02e201fb86a
+[16-05-2021 18:06:06] Checking 5cd8aad7-23cb-406a-9091-3c124731663e.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Rocket1
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Rocket1/layers
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Rocket1/layers
+[16-05-2021 18:06:06] Checking 520076c1-c4a9-4af5-ab93-1d842ffcbc1b
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Rocket1/layers/520076c1-c4a9-4af5-ab93-1d842ffcbc1b
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/Rocket1/layers/520076c1-c4a9-4af5-ab93-1d842ffcbc1b
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun
+[16-05-2021 18:06:06] Checking space_backgroun.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/space_backgroun.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/space_backgroun.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/space_backgroun.yy"
+[16-05-2021 18:06:06] Found Sprite: space_backgroun
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/layers
+[16-05-2021 18:06:06] Checking d752ba69-42a9-403d-a7f4-651878daf559.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/layers
+[16-05-2021 18:06:06] Checking d752ba69-42a9-403d-a7f4-651878daf559
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/layers/d752ba69-42a9-403d-a7f4-651878daf559
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/space_backgroun/layers/d752ba69-42a9-403d-a7f4-651878daf559
+[16-05-2021 18:06:06] Checking 14e25f34-db44-4e80-9d12-c99e5c0f8b2b.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox
+[16-05-2021 18:06:06] Checking SprDialogueBox.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/SprDialogueBox.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/SprDialogueBox.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/SprDialogueBox.yy"
+[16-05-2021 18:06:06] Found Sprite: SprDialogueBox
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/layers
+[16-05-2021 18:06:06] Checking f899b41e-fe41-4925-a16e-3da7ccfb2d1d.png
+[16-05-2021 18:06:06] Checking d213c0e7-8876-4b4f-8c07-64aea3660a9e.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/layers
+[16-05-2021 18:06:06] Checking f899b41e-fe41-4925-a16e-3da7ccfb2d1d
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/layers/f899b41e-fe41-4925-a16e-3da7ccfb2d1d
+[16-05-2021 18:06:06] Checking d213c0e7-8876-4b4f-8c07-64aea3660a9e
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/layers/d213c0e7-8876-4b4f-8c07-64aea3660a9e
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/layers/d213c0e7-8876-4b4f-8c07-64aea3660a9e
+[16-05-2021 18:06:06] Checking f7fb3929-cba2-45f9-bbbd-abbb6e1ee0da.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprDialogueBox/layers/f899b41e-fe41-4925-a16e-3da7ccfb2d1d
+[16-05-2021 18:06:06] Checking 4079b668-949e-4363-82ae-8552622df6eb.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell
+[16-05-2021 18:06:06] Checking SprGravityWell.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/SprGravityWell.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/SprGravityWell.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/SprGravityWell.yy"
+[16-05-2021 18:06:06] Found Sprite: SprGravityWell
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/layers
+[16-05-2021 18:06:06] Checking d8605bdc-9d97-4892-b729-e5200215dbda.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/layers
+[16-05-2021 18:06:06] Checking d8605bdc-9d97-4892-b729-e5200215dbda
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/layers/d8605bdc-9d97-4892-b729-e5200215dbda
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprGravityWell/layers/d8605bdc-9d97-4892-b729-e5200215dbda
+[16-05-2021 18:06:06] Checking 555b1c1a-4a99-433c-8a78-bc11fc246ca3.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA
+[16-05-2021 18:06:06] Checking sprplanetA.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/sprplanetA.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/sprplanetA.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/sprplanetA.yy"
+[16-05-2021 18:06:06] Found Sprite: sprplanetA
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/layers
+[16-05-2021 18:06:06] Checking 2142308f-357d-4495-82a8-c21c565df9fd.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/layers
+[16-05-2021 18:06:06] Checking 2142308f-357d-4495-82a8-c21c565df9fd
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/layers/2142308f-357d-4495-82a8-c21c565df9fd
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetA/layers/2142308f-357d-4495-82a8-c21c565df9fd
+[16-05-2021 18:06:06] Checking 34fbf11f-1372-4178-ad17-880a7df016aa.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB
+[16-05-2021 18:06:06] Checking sprplanetB.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/sprplanetB.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/sprplanetB.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/sprplanetB.yy"
+[16-05-2021 18:06:06] Found Sprite: sprplanetB
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/layers
+[16-05-2021 18:06:06] Checking 690ba16c-975c-4933-8ee8-1d9754f7d3f0.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/layers
+[16-05-2021 18:06:06] Checking 690ba16c-975c-4933-8ee8-1d9754f7d3f0
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/layers/690ba16c-975c-4933-8ee8-1d9754f7d3f0
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetB/layers/690ba16c-975c-4933-8ee8-1d9754f7d3f0
+[16-05-2021 18:06:06] Checking a17ba1ed-615a-46c5-a649-f886dc3a842e.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC
+[16-05-2021 18:06:06] Checking sprplanetC.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/sprplanetC.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/sprplanetC.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/sprplanetC.yy"
+[16-05-2021 18:06:06] Found Sprite: sprplanetC
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/layers
+[16-05-2021 18:06:06] Checking ce5a75ba-028e-4f06-9804-a7bc5ba4de7c.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/layers
+[16-05-2021 18:06:06] Checking ce5a75ba-028e-4f06-9804-a7bc5ba4de7c
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/layers/ce5a75ba-028e-4f06-9804-a7bc5ba4de7c
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/sprplanetC/layers/ce5a75ba-028e-4f06-9804-a7bc5ba4de7c
+[16-05-2021 18:06:06] Checking 772e9c6c-f8f0-4d00-bf04-201a2100d265.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile
+[16-05-2021 18:06:06] Checking SprProjectile.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/SprProjectile.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/SprProjectile.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/SprProjectile.yy"
+[16-05-2021 18:06:06] Found Sprite: SprProjectile
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/layers
+[16-05-2021 18:06:06] Checking 42da3f28-2f46-43eb-bdcc-8d7796831260.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/layers
+[16-05-2021 18:06:06] Checking 42da3f28-2f46-43eb-bdcc-8d7796831260
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/layers/42da3f28-2f46-43eb-bdcc-8d7796831260
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprProjectile/layers/42da3f28-2f46-43eb-bdcc-8d7796831260
+[16-05-2021 18:06:06] Checking 3d791f02-57c4-441d-8854-731a60127314.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle
+[16-05-2021 18:06:06] Checking SprTitle.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/SprTitle.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/SprTitle.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/SprTitle.yy"
+[16-05-2021 18:06:06] Found Sprite: SprTitle
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/layers
+[16-05-2021 18:06:06] Checking 7cbf6b87-aeff-4ba6-a279-6532445bbd12.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/layers
+[16-05-2021 18:06:06] Checking 7cbf6b87-aeff-4ba6-a279-6532445bbd12
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/layers/7cbf6b87-aeff-4ba6-a279-6532445bbd12
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/SprTitle/layers/7cbf6b87-aeff-4ba6-a279-6532445bbd12
+[16-05-2021 18:06:06] Checking e5cf7745-5f8b-4a6d-9f8f-a5ef5ef14b79.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell
+[16-05-2021 18:06:06] Checking tempGravWell.yy
+[16-05-2021 18:06:06] Parsing C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/tempGravWell.yy
+[16-05-2021 18:06:06] Reading C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/tempGravWell.yy
+[16-05-2021 18:06:06] Par: "folders/Sprites" at dir: "C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/tempGravWell.yy"
+[16-05-2021 18:06:06] Found Sprite: tempGravWell
+[16-05-2021 18:06:06] Checking layers
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/layers
+[16-05-2021 18:06:06] Checking 7422dec5-3d59-4729-94d5-159e31401ff4.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/layers
+[16-05-2021 18:06:06] Checking 7422dec5-3d59-4729-94d5-159e31401ff4
+[16-05-2021 18:06:06] Directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/layers/7422dec5-3d59-4729-94d5-159e31401ff4
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/sprites/tempGravWell/layers/7422dec5-3d59-4729-94d5-159e31401ff4
+[16-05-2021 18:06:06] Checking 9ce32ece-e472-4f6e-b886-a54622a5265b.png
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/tilesets
+[16-05-2021 18:06:06] Current parent directory: C:/Users/Liam/Documents/GameMakerStudio2/SpaceGame/timelines
+[16-05-2021 18:06:06] Moving files to trash...
+[16-05-2021 18:06:06] Files yeeted successfully!
+[16-05-2021 18:06:06] Generating YYP...
+[16-05-2021 18:06:06] SpaceGame.yyp created successfully!
